@@ -1,2 +1,2 @@
-# DA-MBA
-Projeto de Data Analytics - MBA -UFPE
+# AD-MBA
+Projeto de Analytics Descritiva - MBA -UFPE
